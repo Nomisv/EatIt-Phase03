@@ -26,7 +26,8 @@ When sellers add new food or want to change the displayed information about food
 
 
 # Project 03 Extension
-We divided our project into 2 parts, one is for the front end, the other one is for the back end.
+We divided our project into 2 parts, one is for the front end, the other one is for the back end which use 
+mongoose instead of mongodb.
 
 First of all, we improved the visualization of our project website by adding colorful graphical background,
 buttons and display structures.
