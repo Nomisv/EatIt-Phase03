@@ -48,7 +48,7 @@ Seventh, seller can add food with its information(price, photo and so on)into th
 # Github URL
 We added a lot of features and changed some original features without submitting the code into github,
 So we decided to uploaded it to a new github repository. Here is the link to our final project submission:
-https://github.com/Freshhao/EatIt
-
+https://github.com/Nomisv/EatIt-Phase03
 
 # Video Link
+
