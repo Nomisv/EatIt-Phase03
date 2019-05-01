@@ -51,4 +51,5 @@ So we decided to uploaded it to a new github repository. Here is the link to our
 https://github.com/Nomisv/EatIt-Phase03
 
 
-# Video Link
+## Video Link
+https://www.youtube.com/watch?v=5lynrWrP_nA&feature=youtu.be
